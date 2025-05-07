@@ -1,16 +1,3 @@
-<<<<<<< HEAD
-# ai-stage
-=======
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/QkgDkg9z)
-
-# 🚀 AI Stage
-
-## 📄 Projectdocumentatie
-- **[Documentation](Documentation)** - Hier slaan we **alle** documentatie op die bij het project hoort.
-- **[Source](Source)** - Bevat de broncode van het project.
-- **[Templates](Templates)** - Templates voor documentatie.
-
----
 
 ## 📌 Project Stappenplan
 
