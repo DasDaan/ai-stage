@@ -16,15 +16,15 @@ Een gebruiksvriendelijke website waar gebruikers AI-modellen kunnen downloaden v
 ✔️ Basis UI en navigatie  
 ✔️ TTS en STT ondersteuning  
 ✔️ Connectie met OpenAI GPT-4o mini  
-✔️ Chatgeschiedenis opslaan binnen sessie  
-✔️ Prompt bewerking door gebruiker  
-✔️ Websockets voor API-verbinding  
+✔️ Chatgeschiedenis opslaan binnen sessie
+✔️ Prompt bewerking door gebruiker
+✔️ Websockets voor API-verbinding 
 ✔️ Download optie voor de applicatie  
-❌ Geen game op de site zelf  
+❌ Geen game op de site zelf 
 
 ---
 
-### 2️⃣ User Stories
+### 2️⃣ User Stories + Functionaliteiten
 | **Functionaliteit**           | **User Story** | **Acceptatiecriteria** |
 |------------------------------|---------------|-----------------------|
 | **Basis UI & Navigatie** | "Als klant wil ik een basis UI en navigatie, zodat ik gemakkelijk kan navigeren." | Consistent ontwerp, navigatiebalk op elke pagina, werkende routing. |
@@ -57,12 +57,10 @@ Een gebruiksvriendelijke website waar gebruikers AI-modellen kunnen downloaden v
 📌 **Backlog & Takenbeheer:** GitHub Projects  
 📌 **Daily Standups:** Google Spreadsheets  
 📌 **Sprints & Evaluaties:** Wekelijkse refinement en review-sessies  
-📌 **Tools:** GitHub, Github project board, OpenAI API, WebSockets SignalR, TTS, STT  
-
-👥 **Teamcommunicatie:** Discord
+📌 **Tools:** GitHub, Github project board, OpenAI API, WebSockets SignalR, TTS, STT
 
 ---
 
-✅ **Laatste update:** *6-3-2025, 11:05*  
+✅ **Laatste update:** *22-04-2025, 16:05*  
 📌 **Beoordelaars:** **
 >>>>>>> master
