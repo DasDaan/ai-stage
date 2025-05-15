@@ -3,7 +3,7 @@
 
 ### 1️⃣ Doelen en Scope
 #### 🎯 Doel van de Software
-Een gebruiksvriendelijke website waar gebruikers AI-modellen kunnen downloaden voor entertainment doeleinden.
+Een gebruiksvriendelijke website waar gebruikers AI-modellen kunnen downloaden voor entertainment doeleinden. De AI-modellen worden met een interface in the terminal gedraaid.  
 
 #### 🔥 Belangrijkste Functionaliteiten
 ✅ Gebruiksvriendelijke UI en navigatie  
@@ -38,25 +38,10 @@ Een gebruiksvriendelijke website waar gebruikers AI-modellen kunnen downloaden v
 
 ---
 
-### 3️⃣ Prioriteiten (MoSCoW-methode)
-| **User Story** | **Prioriteit** |
-|---------------|--------------|
-| Basis UI & Navigatie | Must-have |
-| Contact opnemen | Should-have |
-| Text-to-Speech | Should-have |
-| Speech-to-Text | Should-have |
-| Connectie met GPT-4o mini | Must-have |
-| Chatgeschiedenis | Should-have |
-| Prompt Bewerking | Must-have |
-| Websockets verbinden | Must-have |
-| Download optie | Must-have |
-
----
-
 ### 4️⃣ Projectmanagement
 📌 **Backlog & Takenbeheer:** GitHub Projects  
 📌 **Daily Standups:** Google Spreadsheets  
-📌 **Sprints & Evaluaties:** Wekelijkse refinement en review-sessies  
+📌 **Sprints & Evaluaties:** Om de week refinement en review-sessies  
 📌 **Tools:** GitHub, Github project board, OpenAI API, WebSockets SignalR, TTS, STT
 
 ---
