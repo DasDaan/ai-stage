@@ -15,11 +15,11 @@ Een gebruiksvriendelijke website waar gebruikers AI-modellen kunnen downloaden v
 #### 📌 MVP Scope
 ✔️ Basis UI en navigatie  
 ✔️ TTS en STT ondersteuning  
-✔️ Connectie met OpenAI GPT-4o mini  
-✔️ Chatgeschiedenis opslaan binnen sessie
-✔️ Prompt bewerking door gebruiker
-✔️ Websockets voor API-verbinding 
-✔️ Download optie voor de applicatie  
+✔️ Connectie met OpenAI GPT-4o mini   
+✔️ Chatgeschiedenis opslaan binnen sessie  
+✔️ Prompt bewerking door gebruiker   
+✔️ Websockets voor API-verbinding   
+✔️ Download optie voor de applicatie   
 ❌ Geen game op de site zelf 
 
 ---
