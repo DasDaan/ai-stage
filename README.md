@@ -38,7 +38,7 @@ Een gebruiksvriendelijke website waar gebruikers AI-modellen kunnen downloaden v
 
 ---
 
-### 4️⃣ Projectmanagement
+### Projectmanagement
 📌 **Backlog & Takenbeheer:** GitHub Projects  
 📌 **Daily Standups:** Google Spreadsheets  
 📌 **Sprints & Evaluaties:** Om de week refinement en review-sessies  
