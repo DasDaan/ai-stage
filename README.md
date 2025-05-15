@@ -20,7 +20,7 @@ Een gebruiksvriendelijke website waar gebruikers AI-modellen kunnen downloaden v
 ✔️ Prompt bewerking door gebruiker   
 ✔️ Websockets voor API-verbinding   
 ✔️ Download optie voor de applicatie   
-❌ Geen game op de site zelf 
+❌ Geen chatbot op de site zelf  
 
 ---
 
